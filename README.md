@@ -10,14 +10,6 @@ I'm currently interested in:
 
 ---
 
-## 🚀 Current Projects
-
-- 🥗 Food ingredient scanner with nutritional and environmental impact analysis
-- 🧠 Machine Learning algorithms implemented from scratch
-- 📚 LeetCode practice and interview preparation
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -31,14 +23,6 @@ I'm currently interested in:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📈 GitHub Stats
-
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
 ---
 
