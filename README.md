@@ -1,12 +1,12 @@
-# Hi, I'm Kenneth 👋
+# Hi, My name Kenneth 👋
 
-I'm a Computer Science student at Vanderbilt University passionate about building software that solves real-world problems.
+I'm a recent Computer Science and Mathematics graduate from Vanderbilt University and I'm pursuing my Master's in Data Science, expected to graduate in May 2027. 
 
-Currently interested in:
-- 🤖 Machine Learning
-- 🌱 Sustainability & Environmental Tech
-- 📊 Data Science
-- 💻 Full-Stack Development
+My experience spans data analytics, research, program coordination, and community leadership. I enjoy translating data and emerging technologies into insights that support better decisions, improve systems, and create more meaningful experiences for people and organizations.passionate about building software that solves real-world problems.
+
+I'm currently interested in:
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Analytics
 
 ---
 
@@ -42,10 +42,10 @@ Currently interested in:
 
 ---
 
-## 🌎 Connect with Me
+## 🌎 Let's Connect!
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: YOUR_EMAIL
+- LinkedIn: https://linkedin.com/in/kenneth-c-prado
+- Email: kenneth.c.prado@vanderbilt.edu
 
 ---
 
