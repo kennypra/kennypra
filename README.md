@@ -1,8 +1,8 @@
-# Hi, My name Kenneth 👋
+# Hi, my name is Kenneth 👋
 
-I'm a recent Computer Science and Mathematics graduate from Vanderbilt University and I'm pursuing my Master's in Data Science, expected to graduate in May 2027. 
+I'm a recent Computer Science and Mathematics graduate from Vanderbilt and I'm pursuing my Master's in Data Science——expected to graduate in May 2027. 
 
-My experience spans data analytics, research, program coordination, and community leadership. I enjoy translating data and emerging technologies into insights that support better decisions, improve systems, and create more meaningful experiences for people and organizations.passionate about building software that solves real-world problems.
+My experience spans data analytics, program coordination, and community leadership. I enjoy translating data and emerging technologies into insights that support better decisions, improve systems, and create more meaningful experiences for people and organizations.
 
 I'm currently interested in:
 - 🤖 Artificial Intelligence & Machine Learning
