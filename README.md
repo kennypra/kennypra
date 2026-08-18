@@ -1,5 +1,6 @@
 # Hi, my name is Kenneth 👋
 I'm a recent Computer Science and Mathematics graduate from Vanderbilt and I'm pursuing my Master's in Data Science—expected to graduate in May 2027. 
+
 My experience spans data analytics, program coordination, and community leadership. I enjoy translating data and emerging technologies into insights that support better decisions, improve systems, and create more meaningful experiences for people and organizations.
 
 I'm currently interested in:
@@ -23,6 +24,17 @@ I'm currently interested in:
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kennypra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennypra&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennypra&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
