@@ -25,6 +25,19 @@ I'm currently interested in:
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
+## 🚀 Featured Project
+
+### [Reliable Debugging Assistant](https://github.com/kennypra/Debugging-Assistant)
+An AI-assisted debugging system that goes beyond typical code-generation assistants — it retrieves relevant Stack Overflow discussions, ranks likely fix patterns using a learning-to-rank model, and returns a **calibrated confidence score**, abstaining when it isn't confident enough to give reliable advice. Built a 6-stage pipeline (preprocessing → labeling → BM25 retrieval → synthetic training data → pointwise ranking → calibration) over a corpus of 95K+ Stack Overflow posts.
+
+**Tech:** Python · scikit-learn · BM25 · Logistic Regression · Platt Scaling
+
+<p align="center">
+  <img src="assets/symposium-presentation.jpg" alt="Kenneth presenting at the CS Immersion Symposium" width="600"/>
+  <br/>
+  <em>Presenting the Debugging Assistant project at Vanderbilt's CS Immersion Symposium</em>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
