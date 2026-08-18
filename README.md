@@ -33,7 +33,7 @@ An AI-assisted debugging system that goes beyond typical code-generation assista
 **Tech:** Python · scikit-learn · BM25 · Logistic Regression · Platt Scaling
 
 <p align="center">
-  <img src="assets/symposium-presentation.jpg" alt="Kenneth presenting at the CS Immersion Symposium" width="600"/>
+  <img src="assets/symposium-presentation.png" alt="Kenneth presenting at the CS Immersion Symposium" width="600"/>
   <br/>
   <em>Presenting the Debugging Assistant project at Vanderbilt's CS Immersion Symposium</em>
 </p>
