@@ -46,22 +46,15 @@ An AI-assisted debugging system that goes beyond typical code-generation assista
 
 ## 📚 Relevant Coursework
 
-### Undergraduate
-- Numerical Mathematics
-- Database Management Systems
-- Foundations of Machine Learning
-- Applied Machine Learning
-- Projects in Machine Learning
-- Artificial Intelligence
-
-### Graduate
-- Probability & Statistical Inference
-- Exploratory Data Analysis
-- Business Foundations for Data Scientists
-- Data Management Systems
-- Machine Learning
-- Generative AI Models in Theory & Practice
-- Deep Learning
+| Undergraduate | Graduate |
+|---|---|
+| Numerical Mathematics | Probability & Statistical Inference |
+| Database Management Systems | Exploratory Data Analysis |
+| Foundations of Machine Learning | Business Foundations for Data Scientists |
+| Applied Machine Learning | Data Management Systems |
+| Projects in Machine Learning | Machine Learning |
+| Artificial Intelligence | Deep Learning |
+| | Generative AI Models in Theory & Practice |
 
 ---
 
