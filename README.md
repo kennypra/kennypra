@@ -44,6 +44,25 @@ An AI-assisted debugging system that goes beyond typical code-generation assista
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennypra&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📚 Relevant Coursework
+
+### Undergraduate
+- Numerical Mathematics
+- Database Management Systems
+- Foundations of Machine Learning
+- Applied Machine Learning
+- Projects in Machine Learning
+- Artificial Intelligence
+
+### Graduate
+- Probability & Statistical Inference
+- Exploratory Data Analysis
+- Business Foundations for Data Scientists
+- Data Management Systems
+- Machine Learning
+- Generative AI Models in Theory & Practice
+- Deep Learning
+
 ---
 
 ## 🌎 Let's Connect!
