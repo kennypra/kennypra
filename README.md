@@ -8,6 +8,18 @@ I'm currently interested in:
 - 📊 Data Science & Analytics
 - 🔗 Agentic Workflows & Agent-Based Pipelines
 
+## 📚 Relevant Coursework
+
+| Undergraduate | Graduate |
+|---|---|
+| Numerical Mathematics | Probability & Statistical Inference |
+| Database Management Systems | Exploratory Data Analysis |
+| Foundations of Machine Learning | Business Foundations for Data Scientists |
+| Applied Machine Learning | Data Management Systems |
+| Projects in Machine Learning | Machine Learning |
+| Artificial Intelligence | Deep Learning |
+| | Generative AI Models in Theory & Practice |
+
 ## 🛠 Tech Stack
 
 ### Languages
@@ -43,18 +55,6 @@ An AI-assisted debugging system that goes beyond typical code-generation assista
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennypra&theme=tokyonight&hide_border=true" />
 </p>
-
-## 📚 Relevant Coursework
-
-| Undergraduate | Graduate |
-|---|---|
-| Numerical Mathematics | Probability & Statistical Inference |
-| Database Management Systems | Exploratory Data Analysis |
-| Foundations of Machine Learning | Business Foundations for Data Scientists |
-| Applied Machine Learning | Data Management Systems |
-| Projects in Machine Learning | Machine Learning |
-| Artificial Intelligence | Deep Learning |
-| | Generative AI Models in Theory & Practice |
 
 ---
 
