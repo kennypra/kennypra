@@ -52,7 +52,7 @@ An AI-assisted debugging system that goes beyond typical code-generation assista
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennypra&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kennypra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
